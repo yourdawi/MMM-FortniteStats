@@ -3,7 +3,7 @@
 **You need:**
 
  - MagicMirror ofc. - [https://magicmirror.builders](https://magicmirror.builders/)
- - An API Key from [https://fortniteapi.com/](https://fortniteapi.com/)
+ - An API Key from [https://fortniteapi.com/](https://fortniteapi.com/) - It is free
  - A Fortnite Account or Username
 
 **Installation**
