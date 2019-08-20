@@ -17,9 +17,11 @@
 	 
 
     {
-    			module: 'fortnite',
-    			position: 'bottom',
-    		},
+    
+    	module: 'fortnite',		
+    	position: 'bottom',
+			
+    	},
 
  7.  You can change the position, but i made it for bottom
  8. Start MagicMirror
