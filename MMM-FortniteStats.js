@@ -1,4 +1,4 @@
-Module.register("fortnite",{
+Module.register("MMM-FortniteStats",{
   //Defaults
   defaults: {
     Authtoken: "APIKEY", // Your API Key here @fortniteapi.com
