@@ -15,10 +15,8 @@
  5. Open the MagicMirror config (MagicMirror/config) edit config.js
  6. Insert 
 	 
-
-    {
-    
-    	module: 'fortnite',		
+    	{
+	module: 'fortnite',		
     	position: 'bottom',
 			
     	},
