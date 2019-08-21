@@ -3,7 +3,7 @@ Module.register("MMM-FortniteStats",{
   defaults: {
     Authtoken: "APIKEY", // Your API Key here @fortniteapi.com
     Nickname: "NICKNAME", // Your Nickname / EPIC USERNAME
-    Platform: "ps4", // Your Platform (ps4,pc,xbox)
+    Platform: "PLATFORM", // Your Platform (ps4,pc,xbox)
     // CHANGE ABOVE //
     ClientID: "TEST", // No change
     Stats: "total", // no change
